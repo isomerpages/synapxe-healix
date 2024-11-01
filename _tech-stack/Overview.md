@@ -4,9 +4,9 @@ permalink: /tech-stack/overview/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<h1></h1>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/healix_logo.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/healix-logo.jpg">
 </div>
 <h1>What is HEALIX Tech Stack?</h1>
 <p><strong>HEALIX Tech Stack</strong> is a set of common tools that streamlines
