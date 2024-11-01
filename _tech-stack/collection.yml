@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Overview.md
-      - example-subfolder/.keep
-      - example-subfolder/subfolder-page.md
+      - Data Engineering/.keep
+      - Data Engineering/subfolder-page.md
