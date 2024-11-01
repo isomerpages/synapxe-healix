@@ -3,6 +3,6 @@ links:
   - title: Example Page
     url: /example-page/
   - title: Tech Stack
-    collection: example-folder
+    collection: tech-stack
   - title: Contact Us
     url: /contact-us/
