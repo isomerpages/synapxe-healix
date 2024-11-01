@@ -2,8 +2,8 @@ title: HEALIX
 url: https://www.healix.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#4372d6"
+  primary-color: "#46565e"
+  secondary-color: "#00838f"
   media-colors:
     - title: media-color-one
       color: "#49759a"
