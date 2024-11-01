@@ -16,4 +16,44 @@ architecture where the <strong>Common Services Layer</strong> drives re-usabilit
 and synergies by standardising analytics tools and capabilities that are
 common to entities and the <strong>Base Layer</strong> provides a secured
 Cloud Hosting environment and foundation services that are aligned to policies.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<h2>Common Services Layer</h2>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4><strong>Data Engineering</strong></h4>
+</td>
+<td rowspan="1" colspan="1">
+<p>Data Lakehouse</p>
+<p>Data Catalogue</p>
+<p>Data Pipeline</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Data Quality</p>
+<p>Data Anonymisation</p>
+<p>EAI-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
