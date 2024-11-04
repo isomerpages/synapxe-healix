@@ -2,4 +2,5 @@ collections:
   our-journey:
     output: true
     order:
+      - Success Stories/.keep
       - Use Cases/.keep
