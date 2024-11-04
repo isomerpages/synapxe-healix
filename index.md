@@ -21,10 +21,12 @@ sections:
           description: Page A is important too
           url: /privacy/
       variant: image
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - infopic:
+      title: Welcome to HEALIX
+      id: infopic
+      description: A unified platform to deliver common use cases using common tools
+        on common datasets
+      button: Find out more
+      url: /about-healix/
+      alt: Image alt text
 ---
