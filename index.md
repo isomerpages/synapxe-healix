@@ -9,9 +9,7 @@ sections:
   - hero:
       title: HEALIX
       subtitle: Health Empowerment thru Advanced Leaning and Intelligent eXchange
-      background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
+      background: /images/healix-logo.jpg
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
@@ -22,6 +20,7 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
+      variant: image
   - infobar:
       title: Infobar title
       subtitle: Subtitle
