@@ -1,8 +1,10 @@
 logo: /images/synapxe-logo.png
 links:
-  - title: Example Page
-    url: /example-page/
+  - title: About HEALIX
+    url: /about-healix/
+  - title: Onboarding
+    url: /onboarding/
   - title: Tech Stack
     collection: tech-stack
-  - title: Contact Us
-    url: /contact-us/
+  - title: Our Journey
+    url: /our-journey/
