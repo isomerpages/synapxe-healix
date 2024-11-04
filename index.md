@@ -17,8 +17,8 @@ sections:
         - title: Tech stack
           description: HEALIX Capabilities and Tools
           url: /tech-stack/
-        - title: use cases
-          description: See HEALIX in Action
+        - title: Milestones of our mission
+          description: Use Cases and Success Stories
           url: /our-journey/
       variant: image
   - infopic:
