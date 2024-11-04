@@ -4,7 +4,7 @@ title: HEALIX
 description: Health Empowerment thru Adv Learning & Intelligent eXchange
 image: /images/healix-logo.jpg
 permalink: /
-notification: ""
+notification: Our platform will be undergoing scheduled maintenance on  from  to .
 sections:
   - hero:
       title: HEALIX
