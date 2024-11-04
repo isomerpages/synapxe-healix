@@ -12,6 +12,9 @@ architecture where the <strong>Common Services Layer</strong> drives re-usabilit
 and synergies by standardising analytics tools and capabilities that are
 common to entities and the <strong>Base Layer</strong> provides a secured
 Cloud Hosting environment and foundation services that are aligned to policies.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Layers of HEALIX Tech Stack" src="/images/tech-stack-layers.png">
+</div>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
