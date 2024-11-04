@@ -11,15 +11,15 @@ sections:
       subtitle: Health Empowerment thru Advanced Leaning and Intelligent eXchange
       background: /images/healix-logo.jpg
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Our platform
+          description: What HEALIX Does
+          url: /about-healix/
+        - title: Tech stack
+          description: HEALIX Capabilities and Tools
+          url: /tech-stack/
+        - title: use cases
+          description: See HEALIX in Action
+          url: /our-journey/
       variant: image
   - infopic:
       title: Welcome to HEALIX!
@@ -29,7 +29,7 @@ sections:
       button: Find out more
       url: /about-healix/
       alt: Image alt text
-      subtitle: our platform
+      subtitle: one common platform
   - infopic:
       title: Onboarding
       subtitle: Be part of our journey
