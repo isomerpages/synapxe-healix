@@ -1,4 +1,5 @@
 collections:
   releases:
     output: true
-    order: []
+    order:
+      - Release 1.md
