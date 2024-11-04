@@ -22,11 +22,30 @@ sections:
           url: /privacy/
       variant: image
   - infopic:
-      title: Welcome to HEALIX
+      title: Welcome to HEALIX!
       id: infopic
       description: A unified platform to deliver common use cases using common tools
         on common datasets
       button: Find out more
       url: /about-healix/
       alt: Image alt text
+      subtitle: our platform
+  - infopic:
+      title: Onboarding
+      subtitle: Be part of our journey
+      id: infopic
+      description: A quick 2-step approach for you to join HEALIX soon!
+      button: Get Started Here
+      url: /onboarding/
+      alt: Image alt text
+  - announcements:
+      title: Latest News and Events
+      id: announcements
+      subtitle: What's next
+      announcement_items:
+        - title: Release 2
+          date: 04 November 2024
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
 ---
