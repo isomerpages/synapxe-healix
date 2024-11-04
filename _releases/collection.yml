@@ -1,0 +1,4 @@
+collections:
+  releases:
+    output: true
+    order: []
