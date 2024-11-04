@@ -2,5 +2,6 @@ collections:
   our-journey:
     output: true
     order:
+      - Our Journey.md
       - Success Stories/.keep
       - Use Cases/.keep
