@@ -10,7 +10,7 @@ sections:
   - hero:
       title: HEALIX
       subtitle: Health Empowerment thru Advanced Leaning and Intelligent eXchange
-      background: /images/healix-logo.jpg
+      background: /images/hero-banner.png
       key_highlights:
         - title: Our platform
           description: What HEALIX Does
@@ -21,7 +21,10 @@ sections:
         - title: Milestones of our mission
           description: Use Cases and Success Stories
           url: /our-journey/
-      variant: image
+      variant: floating
+      size: sm
+      alignment: left
+      backgroundColor: gray
   - infopic:
       title: Welcome to HEALIX!
       id: infopic
