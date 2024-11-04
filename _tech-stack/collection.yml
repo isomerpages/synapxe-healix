@@ -2,7 +2,7 @@ collections:
   tech-stack:
     output: true
     order:
-      - Data Analytics/.keep
+      - Analytics/.keep
       - Overview.md
       - Data Engineering/.keep
       - Data Engineering/Data Lakehouse.md
