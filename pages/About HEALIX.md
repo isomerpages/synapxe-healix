@@ -13,7 +13,7 @@ platform not only accelerates processes but also leads to significant savings
 in both costs and manpower.</p>
 <p>&lt;insert-video-here&gt;</p>
 <p></p>
-<h2>Key Features </h2>
+<h2>Key Features</h2>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -47,7 +47,6 @@ sector</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Common Datasets</div>
 <div class="isomer-card-description">Ensures easier access to Common Datasets in GCC</div>
-<div class="isomer-card-description"></div>
 </div>
 </div>
 </div>
