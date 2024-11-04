@@ -4,11 +4,11 @@ title: HEALIX
 description: Health Empowerment thru Adv Learning & Intelligent eXchange
 image: /images/healix-logo.jpg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
+      title: HEALIX
+      subtitle: Health Empowerment thru Advanced Leaning and Intelligent eXchange
       background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/
