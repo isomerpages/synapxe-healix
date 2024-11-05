@@ -17,7 +17,7 @@ sections:
           url: /release-1/
         - title: Tech stack
           description: HEALIX Capabilities and Tools
-          url: /tech-stack/
+          url: /tech-stack/overview
         - title: Milestones of our mission
           description: Use Cases and Success Stories
           url: /our-journey/
