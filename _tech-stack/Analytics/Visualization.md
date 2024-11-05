@@ -19,7 +19,9 @@ to stakeholders across the organization.</p>
 visualize, and share data intuitively and interactively. It allows users
 to create a wide variety of visualizations - from simple charts and graphs
 to complex dashboards - without requiring advanced technical skills.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Product Logos/tableau-logo.png">
+</div>
 <h3>Why Tableau?</h3>
 <ul data-tight="true" class="tight">
 <li>
