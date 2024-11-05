@@ -55,6 +55,6 @@ sections:
             engineering capabilities, and Tableau, which delivers intuitive data
             visualization. Stay tuned as we continue to expand functionality
             with each release!
-          link_text: ""
-          link_url: ""
+          link_text: See full details here
+          link_url: /release-1/
 ---
