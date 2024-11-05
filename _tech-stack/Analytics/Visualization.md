@@ -24,20 +24,20 @@ to complex dashboards - without requiring advanced technical skills.</p>
 <h3>Why Tableau?</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>User-Friendly - Intuitive drag-and-drop interface for easy visualization
-creation</p>
+<p><strong>User-Friendly</strong> - Intuitive drag-and-drop interface for
+easy visualization creation</p>
 </li>
 <li>
-<p>Wide Data Connectivity - Connects to various data sources for real-time
-insights</p>
+<p><strong>Wide Data Connectivity</strong> - Connects to various data sources
+for real-time insights</p>
 </li>
 <li>
-<p>Interactive &amp; Customisable - Dynamic dashboards with filtering and
-drill-down options</p>
+<p><strong>Interactive &amp; Customisable</strong> - Dynamic dashboards with
+filtering and drill-down options</p>
 </li>
 <li>
-<p>Scalable &amp; Collaborative - Suitable for both individual use and enterprise,
-with easy sharing and access across devices</p>
+<p><strong>Scalable &amp; Collaborative</strong> - Suitable for both individual
+use and enterprise, with easy sharing and access across devices</p>
 </li>
 </ul>
 <p></p>
