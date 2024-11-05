@@ -40,4 +40,5 @@ standardize MLOps practices and governance to ensure transparency and auditabili
 to improve accuracy and relevancy of Foundation Models</p>
 </li>
 </ul>
-<p></p>
+<p><a href="https://aws.amazon.com/sagemaker/" rel="noopener nofollow" target="_blank">Click here to learn more!</a>
+</p>
