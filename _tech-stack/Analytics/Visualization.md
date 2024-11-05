@@ -13,7 +13,6 @@ visuals. This capability not only simplifies complex information but also
 supports data storytelling, aiding decision-making. Integrated with other
 components, it ensures real-time, up-to-date insights, making data accessible
 to stakeholders across the organization.</p>
-<p></p>
 <h2>Tool: Tableau</h2>
 <p>Tableau is a powerful data visualization tool designed to help users analyze,
 visualize, and share data intuitively and interactively. It allows users
