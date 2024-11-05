@@ -51,10 +51,15 @@ sections:
         - title: Release 1
           date: 04 November 2024
           announcement: Release 1 is now live! Key highlights of this release include
-            seamless integration with Databricks, which provides robust data
-            engineering capabilities, and Tableau, which delivers intuitive data
-            visualization. Stay tuned as we continue to expand functionality
-            with each release!
+            seamless integration with DataBricks for robust data engineering
+            capabilities and Tableau for intuitive data visualization.
           link_text: See full details here
           link_url: /release-1/
+        - title: Release 2
+          date: 05 November 2024
+          announcement: Release 2 is almost here! This release will introduce new tools
+            and improvements to elevate your HEALIX experience. Stay tuned for
+            more details!
+          link_text: ""
+          link_url: ""
 ---
