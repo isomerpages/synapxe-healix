@@ -16,6 +16,8 @@ Cloud Hosting environment and foundation services that are aligned to policies.<
 <img style="width: 100%" height="auto" width="100%" alt="HEALIX Tech Stack Layers" src="/images/healix_tech_stack_layers.png">
 </div>
 <hr>
+<h2>Common Service Layer</h2>
+<hr>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -23,11 +25,6 @@ Cloud Hosting environment and foundation services that are aligned to policies.<
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="3">
-<h2>Common Service Layer</h2>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <h4><strong>Data Engineering</strong></h4>
@@ -92,4 +89,7 @@ Cloud Hosting environment and foundation services that are aligned to policies.<
 </tr>
 </tbody>
 </table>
+<hr>
+<h2>Local Analytics Service Layer</h2>
+<p></p>
 <p></p>
