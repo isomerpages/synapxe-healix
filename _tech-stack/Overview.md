@@ -33,7 +33,8 @@ Cloud Hosting environment and foundation services that are aligned to policies.<
 <h4><strong>Data Engineering</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
-<p>Data Lakehouse</p>
+<p><a href="isomer.gov.sg/tech-stack/data-engineering/data-lakehouse/" rel="noopener nofollow" target="_blank">Data Lakehouse</a>
+</p>
 <p>Data Catalogue</p>
 <p>Data Pipeline</p>
 </td>
