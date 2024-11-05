@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: Release Stages
           description: See What's New
-          url: /about-healix/
+          url: /releases/
         - title: Tech stack
           description: HEALIX Capabilities and Tools
           url: /tech-stack/
