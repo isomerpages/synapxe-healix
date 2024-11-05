@@ -46,6 +46,19 @@ Cloud Hosting environment and foundation services that are aligned to policies.<
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<h4><strong>Data Science</strong></h4>
+</td>
+<td rowspan="1" colspan="1">
+<p>Data Science (DS) Workbench</p>
+<p>Machine Learning Ops</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Realtime Dashboarding</p>
+<p>Generative AI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
