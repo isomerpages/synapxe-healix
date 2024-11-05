@@ -8,13 +8,15 @@ description: ""
 <p><strong>HEALIX Tech Stack</strong> is a set of common tools that streamlines
 and simplifies the process of advanced analytics and integration of machine
 learning models for the entire public healthcare sector. It has a 2-layer
-architecture where the <strong>Common Services Layer</strong> drives re-usability
+architecture where the <strong>Common Service Layer</strong> drives re-usability
 and synergies by standardising analytics tools and capabilities that are
 common to entities and the <strong>Base Layer</strong> provides a secured
 Cloud Hosting environment and foundation services that are aligned to policies.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Layers of HEALIX Tech Stack" src="/images/tech-stack-layers.png">
 </div>
+<p></p>
+<hr>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -24,7 +26,7 @@ Cloud Hosting environment and foundation services that are aligned to policies.<
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<h2>Common Services Layer</h2>
+<h2>Common Service Layer</h2>
 </th>
 </tr>
 <tr>
