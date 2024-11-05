@@ -5,9 +5,9 @@ variant: tiptap
 description: ""
 ---
 <h1>Welcome to HEALIX!</h1>
-<p>HEALIX is dedicated to establishing a unified cloud-based data infrastructure
-that fosters collaboration among public healthcare stakeholders. By utilizing
-common tools and common datasets, HEALIX promotes a balanced approach that
+<p>HEALIX is dedicated to establishing a unified <strong>cloud-based data infrastructure</strong> that
+fosters collaboration among public healthcare stakeholders. Utilizing&nbsp;<strong>common&nbsp;</strong>tools
+and<strong> </strong>datasets, HEALIX promotes a balanced approach that
 enhances autonomy while leveraging common horizontal capabilities. This
 platform not only accelerates processes but also leads to significant savings
 in both costs and manpower.</p>
