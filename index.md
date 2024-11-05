@@ -48,9 +48,13 @@ sections:
       id: announcements
       subtitle: What's next
       announcement_items:
-        - title: Release 2
+        - title: Release 1
           date: 04 November 2024
-          announcement: Announcement content
+          announcement: Release 1 is now live! Key highlights of this release include
+            seamless integration with Databricks, which provides robust data
+            engineering capabilities, and Tableau, which delivers intuitive data
+            visualization. Stay tuned as we continue to expand functionality
+            with each release!
           link_text: ""
           link_url: ""
 ---
