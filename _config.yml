@@ -52,7 +52,7 @@ plugins:
 staging: https://staging-lite.d1wpldq5un6kl2.amplifyapp.com
 prod: https://master.d6075mm1vwf1h.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/healix-logo.jpg
+shareicon: /images/healix_logo.jpg
 is_government: false
 google_analytics_ga4: ""
 linkedin-insights: ""
