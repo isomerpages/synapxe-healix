@@ -19,7 +19,7 @@ visualize, and share data intuitively and interactively. It allows users
 to create a wide variety of visualizations - from simple charts and graphs
 to complex dashboards - without requiring advanced technical skills.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Product Logos/tableau-logo.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Product Logos/tableau-logo.png">
 </div>
 <h3>Why Tableau?</h3>
 <ul data-tight="true" class="tight">
