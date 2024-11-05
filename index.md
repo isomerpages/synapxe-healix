@@ -10,7 +10,7 @@ sections:
   - hero:
       title: HEALIX
       subtitle: Health Empowerment thru Advanced Leaning and Intelligent eXchange
-      background: /images/healix-logo.jpg
+      background: /images/healix_logo.jpg
       key_highlights:
         - title: Release Stages
           description: See What's New
