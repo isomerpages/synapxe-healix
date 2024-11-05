@@ -16,10 +16,9 @@ to stakeholders across the organization.</p>
 <p></p>
 <h2>Tool: Tableau</h2>
 <p>Tableau is a powerful data visualization tool designed to help users analyze,
-visualize and share data intuitively and interactively. It allows users
+visualize, and share data intuitively and interactively. It allows users
 to create a wide variety of visualizations - from simple charts and graphs
 to complex dashboards - without requiring advanced technical skills.</p>
-<p></p>
 <p></p>
 <h3>Why Tableau?</h3>
 <ul data-tight="true" class="tight">
