@@ -59,13 +59,36 @@ Cloud Hosting environment and foundation services that are aligned to policies.<
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<h4><strong>Data Transfer</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>File Transfer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Real Time Transfer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4><strong>Productivity</strong></h4>
+</td>
+<td rowspan="1" colspan="1">
+<p>Portal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Charging &amp; Monitoring</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4><strong>Analytics</strong></h4>
+</td>
+<td rowspan="1" colspan="1">
+<p>Data Visualization</p>
+<p>PopHealth Segmentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Geospatial Analytics</p>
 </td>
 </tr>
 </tbody>
