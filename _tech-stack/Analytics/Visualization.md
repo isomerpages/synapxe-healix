@@ -21,3 +21,24 @@ to create a wide variety of visualizations - from simple charts and graphs
 to complex dashboards - without requiring advanced technical skills.</p>
 <p></p>
 <p></p>
+<h3>Why Tableau?</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>User-Friendly - Intuitive drag-and-drop interface for easy visualization
+creation</p>
+</li>
+<li>
+<p>Wide Data Connectivity - Connects to various data sources for real-time
+insights</p>
+</li>
+<li>
+<p>Interactive &amp; Customisable - Dynamic dashboards with filtering and
+drill-down options</p>
+</li>
+<li>
+<p>Scalable &amp; Collaborative - Suitable for both individual use and enterprise,
+with easy sharing and access across devices</p>
+</li>
+</ul>
+<p></p>
+<p></p>
