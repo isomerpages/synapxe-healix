@@ -41,4 +41,6 @@ with easy sharing and access across devices</p>
 </li>
 </ul>
 <p></p>
+<p><a href="https://www.tableau.com/" rel="noopener nofollow" target="_blank">Click here to learn more</a>
+</p>
 <p></p>
