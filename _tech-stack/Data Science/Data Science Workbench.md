@@ -21,21 +21,21 @@ and developers to scale their machine learning workflows.</p>
 <h3>Why SageMaker?</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Choice of ML tools - Offers a variety of tools: IDEs for data scientists
-and a no-code interface for business analysts</p>
+<p><strong>Choice of ML tools</strong> - Offers a variety of tools: IDEs for
+data scientists and a no-code interface for business analysts</p>
 </li>
 <li>
-<p>Fully Managed &amp; Scalable Infrastructure - Develop custom ML models,
-including Foundation Models for generative AI applications, using specialized
-tools on a high-performance, cost-effective infrastructure</p>
+<p><strong>Fully Managed &amp; Scalable Infrastructure</strong> - Develop
+custom ML models, including Foundation Models for generative AI applications,
+using specialized tools on a high-performance, cost-effective infrastructure</p>
 </li>
 <li>
-<p>Repeatable &amp; Responsible ML Workflows - Automate and standardize MLOps
-practices and governance to ensure transparency and auditability</p>
+<p><strong>Repeatable &amp; Responsible ML Workflows</strong> - Automate and
+standardize MLOps practices and governance to ensure transparency and auditability</p>
 </li>
 <li>
-<p>Human-in-the-loop - Incoporates human-in-the-loop capabilities to improve
-accuracy and relevancy of Foundation Models</p>
+<p><strong>Human-in-the-loop</strong> - Incorporates human-in-the-loop capabilities
+to improve accuracy and relevancy of Foundation Models</p>
 </li>
 </ul>
 <p></p>
