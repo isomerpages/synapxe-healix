@@ -39,7 +39,7 @@ sector</div>
 <h2>HEALIX Capabilities</h2>
 <p>From Data Engineering to advanced Analytics, HEALIX offers a wide range
 of capabilities that are powered by various cutting-edge tools. Discover
-more about these capabilities on our <a href="/tech-stack/" rel="noopener nofollow" target="_blank">tech stack.</a>
+more about these capabilities on our <a href="/tech-stack/overview/" rel="noopener nofollow" target="_blank">tech stack.</a>
 </p>
 <p></p>
 <h2>Get Started</h2>
