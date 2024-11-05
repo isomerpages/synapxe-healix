@@ -8,7 +8,7 @@ description: ""
 <p>When you are onboarding with us, your organization representatives will
 contact us with your information and detail requirements to proceed with
 the necessary action.</p>
-<h3>Service Access</h3>
+<h2>Service Access</h2>
 <p>To request a specific service on the platform:</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -50,7 +50,7 @@ for the first login.</p>
 </tr>
 </tbody>
 </table>
-<h3>User Access</h3>
+<h2>User Access</h2>
 <p>To gain access to services and tools on the platform:</p>
 <table style="minWidth: 50px">
 <colgroup>
