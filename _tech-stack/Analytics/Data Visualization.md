@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Analytics
 ---
-<h1>Visualization</h1>
+<h1>Data Visualization</h1>
 <p>Visualization transforms raw data into interactive charts, graphs and
 dashboards, helping users easily understand trends and insights. It involves
 extracting and refining data from various sources to create dynamic, customizable
