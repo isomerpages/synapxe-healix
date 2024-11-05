@@ -2,7 +2,7 @@
 layout: homepage
 title: HEALIX
 description: Health Empowerment thru Adv Learning & Intelligent eXchange
-image: /images/healix-logo.jpg
+image: /images/healix_logo.jpg
 permalink: /
 notification: Our platform will be undergoing scheduled maintenance on (Date)
   from (Start Time) to (End Time).
