@@ -17,7 +17,7 @@ on data and AI initiatives faster. Built on open source and open standards,
 a lakehouse simplifies the data estate by eliminating the silos that historically
 complicate data and AI.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Product Logos/databricks-logo.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Product Logos/databricks-logo.png">
 </div>
 <h3>Why Databricks?</h3>
 <ul data-tight="true" class="tight">
