@@ -12,8 +12,8 @@ sections:
       subtitle: Health Empowerment thru Advanced Leaning and Intelligent eXchange
       background: /images/hero-banner.png
       key_highlights:
-        - title: Our platform
-          description: What HEALIX Does
+        - title: Release Stages
+          description: See What's New
           url: /about-healix/
         - title: Tech stack
           description: HEALIX Capabilities and Tools
