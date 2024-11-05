@@ -91,5 +91,13 @@ Cloud Hosting environment and foundation services that are aligned to policies.<
 </table>
 <hr>
 <h2>Local Analytics Service Layer</h2>
-<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">HDAP</div><div class="isomer-card-description">SingHealth</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">STATA</div>
+<div class="isomer-card-description">MOH</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a>
+</div>
 <p></p>
