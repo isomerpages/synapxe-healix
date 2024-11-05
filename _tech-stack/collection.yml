@@ -6,5 +6,6 @@ collections:
       - Data Engineering/.keep
       - Data Engineering/Data Lakehouse.md
       - Data Science/.keep
+      - Analytics/Geospatial Analytics.md
       - Analytics/Visualization.md
       - Analytics/.keep
