@@ -18,7 +18,7 @@ the necessary action.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Step 1</strong>
+<p><strong>1</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -28,7 +28,7 @@ the necessary action.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Step 2</strong>
+<p><strong>2</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -39,8 +39,7 @@ Desk.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Step 3</strong>
-</p>
+<p>3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Almost There!</strong>
@@ -61,8 +60,7 @@ for the first login.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Step 1</strong>
-</p>
+<p>1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Download and fill up the Access Request Form</strong>
@@ -71,7 +69,7 @@ for the first login.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Step 2</strong>
+<p><strong>2</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -82,7 +80,7 @@ HEALIX with complete declaration.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Step 3</strong>
+<p><strong>3</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
