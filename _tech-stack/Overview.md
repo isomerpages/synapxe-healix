@@ -13,9 +13,8 @@ and synergies by standardising analytics tools and capabilities that are
 common to entities and the <strong>Base Layer</strong> provides a secured
 Cloud Hosting environment and foundation services that are aligned to policies.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Layers of HEALIX Tech Stack" src="/images/tech-stack-layers.png">
+<img style="width: 100%" height="auto" width="100%" alt="HEALIX Tech Stack Layers" src="/images/healix_tech_stack_layers.png">
 </div>
-<p></p>
 <hr>
 <table style="minWidth: 75px">
 <colgroup>
