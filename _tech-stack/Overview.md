@@ -30,7 +30,8 @@ Cloud Hosting environment and foundation services that are aligned to policies.<
 <h4><strong>Data Engineering</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
-<p>Data Lakehouse</p>
+<p><a href="/tech-stack/data-engineering/data-lakehouse" rel="noopener nofollow" target="_blank">Data Lakehouse</a>
+</p>
 <p>Data Catalogue</p>
 <p>Data Pipeline</p>
 </td>
@@ -45,7 +46,8 @@ Cloud Hosting environment and foundation services that are aligned to policies.<
 <h4><strong>Data Science</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
-<p>Data Science (DS) Workbench</p>
+<p><a href="/tech-stack/data-science/data-science-ds-workbench" rel="noopener nofollow" target="_blank">Data Science (DS) Workbench</a>
+</p>
 <p>Machine Learning Ops</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -80,11 +82,13 @@ Cloud Hosting environment and foundation services that are aligned to policies.<
 <h4><strong>Analytics</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
-<p>Data Visualization</p>
+<p><a href="/tech-stack/analytics/visualization" rel="noopener nofollow" target="_blank">Data Visualization</a>
+</p>
 <p>PopHealth Segmentation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Geospatial Analytics</p>
+<p><a href="/tech-stack/analytics/geospatial-analytics" rel="noopener nofollow" target="_blank">Geospatial Analytics</a>
+</p>
 </td>
 </tr>
 </tbody>
