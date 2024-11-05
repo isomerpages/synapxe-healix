@@ -17,7 +17,9 @@ ideal for projects ranging from predictive analytics to deep learning applicatio
 process of building, training, and deploying machine learning (ML) models.
 It supports the entire ML lifecycle, making it easier for data scientists
 and developers to scale their machine learning workflows.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Product Logos/sagemaker_logo.png">
+</div>
 <h3>Why SageMaker?</h3>
 <ul data-tight="true" class="tight">
 <li>
