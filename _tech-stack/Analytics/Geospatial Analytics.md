@@ -22,7 +22,7 @@ apps - all without the need for advanced technical skills. ArcGIS supports
 everything from basic mapping to advanced geospatial analytics and real-time
 monitoring.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Product Logos/ArcGIS_logo.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Product Logos/arcGIS_logo.png">
 </div>
 <h3>Why ArcGIS?</h3>
 <ul data-tight="true" class="tight">
