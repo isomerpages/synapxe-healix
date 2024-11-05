@@ -32,8 +32,9 @@ sections:
         on common datasets
       button: Find out more
       url: /about-healix/
-      alt: Image alt text
+      alt: HEALIX
       subtitle: one common platform
+      image: /images/healix_logo.jpg
   - infopic:
       title: Onboarding
       subtitle: Be part of our journey
