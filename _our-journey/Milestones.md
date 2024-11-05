@@ -6,7 +6,7 @@ description: ""
 ---
 <h1>See HEALIX in Action!</h1>
 <p>By providing a comprehensive suite of tools and resources, HEALIX supports
-a wide range of use cases, from data management and data analytics to interoperability
+a wide range of use cases, from data management and analytics to interoperability
 among systems. This adaptability allows our healthcare partners to streamline
 their processes, improve patient outcomes and foster collaboration across
 the healthcare ecosystem. As a result, HEALIX not only addresses the unique
