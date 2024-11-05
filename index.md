@@ -21,7 +21,7 @@ sections:
         - title: Milestones of our mission
           description: Use Cases and Success Stories
           url: /our-journey/
-      variant: floating
+      variant: center
       size: sm
       alignment: left
       backgroundColor: gray
