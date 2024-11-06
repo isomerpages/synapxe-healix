@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Analytics
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Entities Logo/all_entities_logo.png">
+</div>
 <h1>Data Visualization</h1>
 <p>Visualization transforms raw data into interactive charts, graphs and
 dashboards, helping users easily understand trends and insights. It involves
