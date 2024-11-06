@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Our Partner's Logo" src="/images/Entities Logo/all_entities_logo.png">
+<img style="width: 100%" height="auto" width="100%" alt="Our Partners' Logo" src="/images/Entities Logo/all_entities_logo.png">
 </div>
 <h1>What is HEALIX Tech Stack?</h1>
 <p><strong>HEALIX Tech Stack</strong> is a set of common tools that streamlines
