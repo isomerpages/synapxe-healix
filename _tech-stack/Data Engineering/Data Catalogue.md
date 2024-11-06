@@ -11,3 +11,5 @@ third_nav_title: Data Engineering
 </div>
 <h1>Data Catalogue</h1>
 <p></p>
+<h2>Tool: Informatica IDMC</h2>
+<p></p>
