@@ -19,6 +19,6 @@ the process of building, deploying, and managing machine learning models
 at scale by harnessing the power of AI. Designed for both technical and
 non-technical users, it automates the entire machine learning lifecycle.
 By leveraging advanced algorithms and a wide array of pre-built models,
-DataRobot accelerates the development of AI solutions, allowing organizations
+DataRobot accelerates the development of AI solutions, allowing organisations
 to unlock insights from their data faster and more efficiently.</p>
 <p></p>
