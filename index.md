@@ -46,7 +46,7 @@ sections:
   - announcements:
       title: Latest HEALIX News
       id: announcements
-      subtitle: what's next
+      subtitle: annoucements
       announcement_items:
         - title: Release 1
           date: 04 November 2024
