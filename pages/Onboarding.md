@@ -4,9 +4,8 @@ permalink: /onboarding/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Our Partner's Logo" src="/images/Entities Logo/all_entities_logo.png">
+<img style="width: 100%" height="auto" width="100%" alt="Our Partners' Logo" src="/images/Entities Logo/all_entities_logo.png">
 </div>
 <h1>Overview</h1>
 <p>When you are onboarding with us, your organization representatives will
