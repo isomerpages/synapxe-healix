@@ -7,6 +7,6 @@ links:
   - title: Tech Stack
     collection: tech-stack
   - title: Our Journey
-    url: /our-journey/
+    collection: our-journey
   - title: Releases
     collection: releases
