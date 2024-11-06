@@ -14,11 +14,11 @@ With MLOps, data scientists and operations teams can collaborate more effectivel
 automating workflows, tracking model performance, and tackling issues like
 model drift.</p>
 <h2>Tool: DataRobot</h2>
-<p>DataRobot is a powerful MLOps platform that simplifies the process of
-building, deploying, and managing machine learning models at scale by harnessing
-the power of AI. Designed for both technical and non-technical users, it
-automates the entire machine learning lifecycle. By leveraging advanced
-algorithms and a wide array of pre-built models, DataRobot accelerates
-the development of AI solutions, allowing organizations to unlock insights
-from their data faster and more efficiently.</p>
+<p><strong>DataRobot</strong> is a powerful MLOps platform that simplifies
+the process of building, deploying, and managing machine learning models
+at scale by harnessing the power of AI. Designed for both technical and
+non-technical users, it automates the entire machine learning lifecycle.
+By leveraging advanced algorithms and a wide array of pre-built models,
+DataRobot accelerates the development of AI solutions, allowing organizations
+to unlock insights from their data faster and more efficiently.</p>
 <p></p>
