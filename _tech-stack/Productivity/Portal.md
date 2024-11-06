@@ -22,6 +22,6 @@ a centralised, scalable interface where users can connect, transform, and
 manage data from multiple sources in a seamless, no-code or low-code environment.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="DataPipes" src="/images/Product Logos/datapipes_logo.png">
+<img style="width: 70%;" height="auto" width="100%" alt="DataPipes" src="/images/Product Logos/datapipes_logo.png">
 </div>
 <p></p>
