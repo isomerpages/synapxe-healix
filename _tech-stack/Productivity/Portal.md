@@ -9,11 +9,11 @@ third_nav_title: Productivity
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Entities Logo/all_entities_logo.png">
 </div>
 <h1>Portal</h1>
-<p>The <strong>HEALIX Portal</strong> serves as the central access point for
-the entire HEALIX tech stack, offering users seamless entry to a comprehensive
-suite of tools and capabilities tailored to data engineering and advanced
-analytics. Designed as an intuitive and unified interface, the portal enables
-efficient navigation and utilisation of HEALIX's powerful technology resources.</p>
+<p>The <strong>HEALIX Portal</strong> is the central access point for the entire
+HEALIX tech stack, offering users seamless entry to a comprehensive suite
+of tools and capabilities tailored to data engineering and advanced analytics.
+Designed as an intuitive and unified interface, the portal enables efficient
+navigation and utilisation of HEALIX's powerful technology resources.</p>
 <h2>Tool: Ollion Data Pipes</h2>
 <p><strong>Data Pipes</strong> serves as a powerful data integration and management
 portal designed to streamline complex data workflows for businesses. It
