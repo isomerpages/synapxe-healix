@@ -21,4 +21,7 @@ decisions quickly.</p>
 the management and utilization of data pipelines within an organization.
 It plays a crucial role in optimizing data pipelines by providing comprehensive
 metadata management and data lineage capabilities and enables data processing
-such as ingesting data into a lakehouse. This visibility of data flow allows</p>
+such as ingesting data into a lakehouse. This visibility of data flow allows
+data engineers and analysts to understand how data is transformed and utilized,
+facilitating better decision-making and troubleshooting.</p>
+<p></p>
