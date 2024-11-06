@@ -20,7 +20,7 @@ sections:
           url: /tech-stack/overview
         - title: Milestones of our mission
           description: Use Cases and Success Stories
-          url: /our-journey/
+          url: /our-journey/milestones
       variant: center
       size: sm
       alignment: left
