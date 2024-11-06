@@ -2,13 +2,13 @@ collections:
   tech-stack:
     output: true
     order:
-      - Data Transfer/.keep
       - Overview.md
       - Data Engineering/.keep
       - Data Engineering/Data Lakehouse.md
       - Data Science/.keep
       - Data Science/Data Science Workbench.md
       - Data Science/Machine Learning Ops.md
+      - Data Transfer/.keep
       - Analytics/.keep
       - Analytics/Data Visualisation.md
       - Analytics/Geospatial Analytics.md
