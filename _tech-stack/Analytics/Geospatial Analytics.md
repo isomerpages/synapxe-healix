@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Analytics
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Entities Logo/all_entities_logo.png">
+<img style="width: 100%" height="auto" width="100%" alt="Our Partners' Logo" src="/images/Entities Logo/all_entities_logo.png">
 </div>
 <h1>Geospatial Analytics</h1>
 <p>Geospatial analytics leverages spatial data to uncover patterns, trends
@@ -25,7 +25,7 @@ apps - all without the need for advanced technical skills. ArcGIS supports
 everything from basic mapping to advanced geospatial analytics and real-time
 monitoring.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Product Logos/arcGIS_logo.png">
+<img style="width: 50%;" height="auto" width="100%" alt="ArcGIS Logo" src="/images/Product Logos/arcGIS_logo.png">
 </div>
 <h3>Why ArcGIS?</h3>
 <ul data-tight="true" class="tight">
