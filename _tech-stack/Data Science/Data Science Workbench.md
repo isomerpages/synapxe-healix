@@ -37,7 +37,7 @@ using specialised tools on a high-performance, cost-effective infrastructure</p>
 </li>
 <li>
 <p><strong>Repeatable &amp; Responsible ML Workflows</strong> - Automate and
-standardize MLOps practices and governance to ensure transparency and auditability</p>
+standardise MLOps practices and governance to ensure transparency and auditability</p>
 </li>
 <li>
 <p><strong>Human-in-the-loop</strong> - Incorporates human-in-the-loop capabilities
