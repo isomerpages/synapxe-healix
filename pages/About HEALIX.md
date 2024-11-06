@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Entities Logo/all_entities_logo.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Entities Logo/all_entities_logo.png">
 </div>
 <h1>Welcome to HEALIX!</h1>
 <p>HEALIX is dedicated to establishing a unified <strong>cloud-based data infrastructure</strong> that
