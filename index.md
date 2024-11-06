@@ -71,5 +71,5 @@ sections:
       description: Explore how we work together with our partners to drive innovation
         within Singapore's public healthcare sector.
       button: Discover our collaborative efforts
-      url: /about-healix/our-partners/
+      url: /our-journey/use-cases/
 ---
