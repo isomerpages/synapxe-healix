@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Data Science
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Entities Logo/all_entities_logo.png">
+</div>
 <h1>Data Science Workbench</h1>
 <p>The Data Science Workbench is a comprehensive platform designed to support
 data scientists and analysts throughout the entire data science lifecycle.
