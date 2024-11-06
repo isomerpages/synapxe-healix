@@ -2,5 +2,5 @@ collections:
   our-journey:
     output: true
     order:
-      - Milestones.md
+      - Our Milestones.md
       - Success Stories/.keep
