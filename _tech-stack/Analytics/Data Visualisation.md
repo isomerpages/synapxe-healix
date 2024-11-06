@@ -15,7 +15,7 @@ extracting and refining data from various sources to create dynamic, customisabl
 visuals. This capability not only simplifies complex information but also
 supports data storytelling, aiding decision-making. Integrated with other
 components, it ensures real-time, up-to-date insights, making data accessible
-to stakeholders across the organization.</p>
+to stakeholders across the organisation.</p>
 <h2>Tool: Tableau</h2>
 <p>Tableau is a powerful data visualisation tool designed to help users analyse,
 visualise, and share data intuitively and interactively. It allows users
