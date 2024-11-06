@@ -20,13 +20,21 @@ high-quality care in an increasingly complex healthcare landscape.</p>
 <details class="isomer-details">
 <summary>Synapxe</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Data Science</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>DS: Synthetic Data Generation Model |&nbsp; Sleep Disorder Classification
-Model</p>
+<p>Synthetic Data Generation Model</p>
 </li>
 <li>
-<p>Visualisation: Corporate Requirements</p>
+<p>Sleep Disorder Classification Model</p>
+</li>
+</ul>
+<p><strong>Visualisation</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Corporate Requirements</p>
 </li>
 </ul>
 </div>
