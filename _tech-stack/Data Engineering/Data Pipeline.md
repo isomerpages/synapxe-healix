@@ -17,4 +17,5 @@ for analysis and reporting. Data pipelines can handle batch or real-time
 data processing, enabling organizations to derive insights and make data-driven
 decisions quickly.</p>
 <h2>Tool: Informatica IDMC (EDC)</h2>
-<p></p>
+<p>Informatica Enterprise Data Catalog (EDC) is a powerful tool that enhances
+the management and utilization of data pipelines within an organization.</p>
