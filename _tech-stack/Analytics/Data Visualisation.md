@@ -29,19 +29,19 @@ skills.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>User-Friendly</strong> - Intuitive drag-and-drop interface for
-easy visualisation creation</p>
+easy visualisation creation.</p>
 </li>
 <li>
 <p><strong>Wide Data Connectivity</strong> - Connects to various data sources
-for real-time insights</p>
+for real-time insights.</p>
 </li>
 <li>
 <p><strong>Interactive &amp; Customisable</strong> - Dynamic dashboards with
-filtering and drill-down options</p>
+filtering and drill-down options.</p>
 </li>
 <li>
 <p><strong>Scalable &amp; Collaborative</strong> - Suitable for both individual
-use and enterprise, with easy sharing and access across devices</p>
+use and enterprise, with easy sharing and access across devices.</p>
 </li>
 </ul>
 <p><a href="https://www.tableau.com/" rel="noopener nofollow" target="_blank">Click here to learn more!</a>
