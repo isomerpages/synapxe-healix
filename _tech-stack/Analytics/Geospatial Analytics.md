@@ -9,7 +9,7 @@ third_nav_title: Analytics
 <img style="width: 100%" height="auto" width="100%" alt="Our Partners' Logo" src="/images/Entities Logo/all_entities_logo.png">
 </div>
 <h1>Geospatial Analytics</h1>
-<p><strong>Geospatial analytics</strong> leverages spatial data to uncover
+<p><strong>Geospatial Analytics</strong> leverages spatial data to uncover
 patterns, trends and insights related to geography and location. By integrating
 data from multiple sources, it enables organisations to analyze geographic
 relationships, make data-driven decisions, and visualize complex scenarios
