@@ -23,6 +23,9 @@ out of AWS without needing to manage infrastructure or handle security
 updates. It supports popular transfer protocols, making it compatible with
 existing file transfer systems while leveraging the security and scalability
 of AWS.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="AWS Transfer Family" src="/images/Product Logos/aws_transfer_family_logo.png">
+</div>
 <h3>Why AWS Transfer Family?</h3>
 <ul>
 <li>
