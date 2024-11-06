@@ -25,8 +25,7 @@ and enables data processing such as ingesting data into a lakehouse. This
 visibility of data flow allows data engineers and analysts to understand
 how data is transformed and utilized, facilitating better decision-making
 and troubleshooting.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Informatica Logo" src="/images/Product Logos/informatica_logo.png">
+<img style="width: 50%;" height="auto" width="100%" alt="Informatica Logo" src="/images/Product Logos/informatica_logo.png">
 </div>
 <p></p>
