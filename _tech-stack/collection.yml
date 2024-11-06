@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - Data Engineering/Data Catalogue.md
       - Data Engineering/.keep
       - Data Engineering/Data Lakehouse.md
       - Data Science/.keep
