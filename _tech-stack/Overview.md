@@ -74,7 +74,8 @@ and introduce a <strong>Use Case Layer</strong> to track ongoing usage.</p>
 <h4><strong>Productivity</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
-<p>Portal</p>
+<p><a href="/tech-stack/productivity/portal/" rel="noopener nofollow" target="_blank">Portal</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Charging &amp; Monitoring</p>
