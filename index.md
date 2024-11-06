@@ -29,7 +29,7 @@ sections:
       title: Welcome to HEALIX!
       id: infopic
       description: A unified platform to deliver common use cases using common tools
-        on common datasets
+        on common datasets.
       button: Find out more
       url: /about-healix/
       alt: HEALIX
@@ -68,4 +68,8 @@ sections:
       id: infopic
       image: /images/infopic_entities.png
       alt: Image alt text
+      description: Explore how we work together with our partners to drive innovation
+        within Singapore's public healthcare sector.
+      button: Discover our collaborative efforts
+      url: /about-healix/our-partners/
 ---
