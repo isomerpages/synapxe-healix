@@ -9,18 +9,19 @@ third_nav_title: Analytics
 <img style="width: 100%" height="auto" width="100%" alt="Our Partners' Logo" src="/images/Entities Logo/all_entities_logo.png">
 </div>
 <h1>Data Visualisation</h1>
-<p>Visualisation transforms raw data into interactive charts, graphs and
-dashboards, helping users easily understand trends and insights. It involves
-extracting and refining data from various sources to create dynamic, customisable
-visuals. This capability not only simplifies complex information but also
-supports data storytelling, aiding decision-making. Integrated with other
-components, it ensures real-time, up-to-date insights, making data accessible
-to stakeholders across the organisation.</p>
+<p><strong>Visualisation</strong> transforms raw data into interactive charts,
+graphs and dashboards, helping users easily understand trends and insights.
+It involves extracting and refining data from various sources to create
+dynamic, customisable visuals. This capability not only simplifies complex
+information but also supports data storytelling, aiding decision-making.
+Integrated with other components, it ensures real-time, up-to-date insights,
+making data accessible to stakeholders across the organisation.</p>
 <h2>Tool: Tableau</h2>
-<p>Tableau is a powerful data visualisation tool designed to help users analyse,
-visualise, and share data intuitively and interactively. It allows users
-to create a wide variety of visualisations - from simple charts and graphs
-to complex dashboards - without requiring advanced technical skills.</p>
+<p><strong>Tableau</strong> is a powerful data visualisation tool designed
+to help users analyse, visualise, and share data intuitively and interactively.
+It allows users to create a wide variety of visualisations - from simple
+charts and graphs to complex dashboards - without requiring advanced technical
+skills.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Tableau Logo" src="/images/Product Logos/tableau-logo.png">
 </div>
