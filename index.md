@@ -63,7 +63,7 @@ sections:
           link_text: ""
           link_url: ""
   - infopic:
-      title: Our Entities
+      title: Our Partners
       subtitle: who we work with
       id: infopic
       image: /images/infopic_entities.png
