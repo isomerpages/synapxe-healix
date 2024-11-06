@@ -83,7 +83,7 @@ and introduce a <strong>Use Case Layer</strong> to track ongoing usage.</p>
 <h4><strong>Analytics</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/tech-stack/analytics/data-visualization/" rel="noopener nofollow" target="_blank">Data Visualization</a>
+<p><a href="/tech-stack/analytics/data-visualization/" rel="noopener nofollow" target="_blank">Data Visualisation</a>
 </p>
 <p>PopHealth Segmentation</p>
 </td>
