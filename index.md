@@ -18,7 +18,7 @@ sections:
         - title: Tech stack
           description: HEALIX Capabilities and Tools
           url: /tech-stack/overview/
-        - title: Milestones of our mission
+        - title: Our Milestones
           description: Use Cases and Success Stories
           url: /our-journey/our-milestones/
       variant: center
