@@ -42,5 +42,12 @@ predict future trends and make smarter decisions</p>
 <p><strong>Scalable &amp; Reliable Results</strong> - Designed to scale efficiently,
 providing the infrastructure and flexibility to meet your growing demands</p>
 </li>
+<li>
+<p><strong>Deep Ecosystem Integration</strong> - Integrate with a wide range
+of industry-leading tools and platforms, enabling smooth workflows across
+your tech ecosystem</p>
+</li>
 </ul>
+<p><a href="https://www.datarobot.com/" rel="noopener nofollow" target="_blank">Click here to learn more!</a>
+</p>
 <p></p>
