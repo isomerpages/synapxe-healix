@@ -39,7 +39,7 @@ maps with spatial filters and drill-down capabilities</p>
 </li>
 <li>
 <p><strong>Scalable &amp; Collaborative</strong> - Works seamlessly across
-web and mobile, with collaboration tools for organizations of all sizes</p>
+web and mobile, with collaboration tools for organisations of all sizes</p>
 </li>
 <li>
 <p><strong>Real-Time Spatial Insights</strong> - Monitors events live, offering
