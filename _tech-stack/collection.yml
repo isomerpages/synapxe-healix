@@ -11,6 +11,7 @@ collections:
       - Data Science/.keep
       - Data Science/Data Science Workbench.md
       - Data Science/Machine Learning Ops.md
+      - Data Transfer/Real Time Transfer.md
       - Data Transfer/File Transfer.md
       - Data Transfer/.keep
       - Productivity/Portal.md
