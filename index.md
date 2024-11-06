@@ -17,15 +17,15 @@ sections:
           url: /release-1/
         - title: Tech stack
           description: HEALIX Capabilities and Tools
-          url: /tech-stack/overview
+          url: /tech-stack/overview/
         - title: Milestones of our mission
           description: Use Cases and Success Stories
-          url: /our-journey/milestones
+          url: /our-journey/our-milestones/
       variant: center
       size: sm
       alignment: left
       backgroundColor: gray
-      button: join healix
+      button: join healix now
       url: /onboarding/
   - infopic:
       title: Welcome to HEALIX!
@@ -65,5 +65,5 @@ sections:
       description: Explore how we work together with our partners to drive innovation
         within Singapore's public healthcare sector.
       button: Discover our collaborative efforts
-      url: /our-journey/milestones/
+      url: /our-journey/our-milestones/
 ---
