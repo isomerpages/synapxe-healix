@@ -19,10 +19,10 @@ high-quality care in an increasingly complex healthcare landscape.</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Synthetic Data Generation Model</div><div class="isomer-card-description">Synapxe</div><div class="isomer-card-link">Find out more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Warfarin Dosage Model</div>
-<div class="isomer-card-description">SingHealth</div>
+<div class="isomer-card-title">Sleep Disorder Classification Model</div>
+<div class="isomer-card-description">Synapxe</div>
 <div class="isomer-card-link">Find out more</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Warfarin Dosage Model</div><div class="isomer-card-description">SingHealth</div><div class="isomer-card-link">Find out more</div></div></a>
 </div>
 <p></p>
