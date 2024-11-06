@@ -29,5 +29,24 @@ and troubleshooting.</p>
 <img style="width: 50%;" height="auto" width="100%" alt="Informatica Logo" src="/images/Product Logos/informatica_logo.png">
 </div>
 <h3>Why Informatica IDMC (EDC)?</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Automated Data Integration</strong> - Streamlines the process of
+connecting and integrating data from various sources, reducing manual efforts
+and errors.</p>
+</li>
+<li>
+<p><strong>Scalability </strong>- Offers scalable solutions that can handle
+large volumes of data and complex transformations, accommodating growing
+data needs.</p>
+</li>
+<li>
+<p><strong>Data Lineage Tracking</strong> - Provides visibility into the flow
+of data through the pipeline, allowing users to trace data transformations
+and understand data origins.</p>
+</li>
+</ul>
+<p><a href="https://www.informatica.com/sg/products/data-catalog/enterprise-data-catalog.html" rel="noopener nofollow" target="_blank">Click here to learn more!</a>
+</p>
 <p></p>
 <p></p>
