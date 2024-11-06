@@ -17,4 +17,10 @@ security standards. By supporting multiple transfer protocols, file transfer
 solutions allow organisations to work with varied data sources, simplify
 integration, and facilitate smooth data exchanges.</p>
 <h2>Tool: AWS Transfer Family</h2>
+<p><strong>AWS Transfer Family</strong> is a fully managed service that provides
+secure file transfer capabilities, making it easy to move files in and
+out of AWS without needing to manage infrastructure or handle security
+updates. It supports popular transfer protocols, making it compatible with
+existing file transfer systems while leveraging the security and scalability
+of AWS.</p>
 <p></p>
