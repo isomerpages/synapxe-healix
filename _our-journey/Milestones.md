@@ -4,6 +4,9 @@ permalink: /our-journey/
 variant: tiptap
 description: ""
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Entities Logo/all_entities_logo.png">
+</div>
 <h1>See HEALIX in Action!</h1>
 <p>By providing a comprehensive suite of tools and resources, HEALIX supports
 a wide range of use cases, from data management and analytics to interoperability
