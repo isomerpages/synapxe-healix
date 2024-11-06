@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - Milestones.md
+      - Success Stories/Success Stories.md
       - Success Stories/.keep
