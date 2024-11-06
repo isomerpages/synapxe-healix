@@ -62,7 +62,8 @@ and introduce a <strong>Use Case Layer</strong> to track ongoing usage.</p>
 <h4><strong>Data Transfer</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
-<p>File Transfer</p>
+<p><a href="/tech-stack/data-transfer/file-transfer/" rel="noopener nofollow" target="_blank">File Transfer</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Real Time Transfer</p>
