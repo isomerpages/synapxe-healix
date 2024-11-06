@@ -62,4 +62,10 @@ sections:
             more details.
           link_text: ""
           link_url: ""
+  - infopic:
+      title: Our Entities
+      subtitle: who we work with
+      id: infopic
+      image: /images/infopic_entities.png
+      alt: Image alt text
 ---
