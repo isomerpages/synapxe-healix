@@ -11,8 +11,8 @@ third_nav_title: Analytics
 <h1>Geospatial Analytics</h1>
 <p><strong>Geospatial Analytics</strong> leverages spatial data to uncover
 patterns, trends and insights related to geography and location. By integrating
-data from multiple sources, it enables organisations to analyze geographic
-relationships, make data-driven decisions, and visualize complex scenarios
+data from multiple sources, it enables organisations to analyse geographic
+relationships, make data-driven decisions, and visualise complex scenarios
 on maps. This approach goes beyond traditional analysis by adding spatial
 dimensions, empowering businesses and governments to plan more effectively,
 optimise operations, and monitor real-time events.</p>
