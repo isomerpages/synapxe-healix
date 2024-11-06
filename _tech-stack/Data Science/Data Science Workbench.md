@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Data Science
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Entities Logo/all_entities_logo.png">
+<img style="width: 100%" height="auto" width="100%" alt="Our Partners' Logo" src="/images/Entities Logo/all_entities_logo.png">
 </div>
 <h1>Data Science Workbench</h1>
 <p>The Data Science Workbench is a comprehensive platform designed to support
@@ -21,7 +21,7 @@ process of building, training, and deploying machine learning (ML) models.
 It supports the entire ML lifecycle, making it easier for data scientists
 and developers to scale their machine learning workflows.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Product Logos/sagemaker_logo.png">
+<img style="width: 50%;" height="auto" width="100%" alt="AWS SageMaker Logo" src="/images/Product Logos/sagemaker_logo.png">
 </div>
 <h3>Why SageMaker?</h3>
 <ul data-tight="true" class="tight">
