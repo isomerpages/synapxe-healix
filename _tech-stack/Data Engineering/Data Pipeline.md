@@ -18,4 +18,7 @@ data processing, enabling organizations to derive insights and make data-driven
 decisions quickly.</p>
 <h2>Tool: Informatica IDMC (EDC)</h2>
 <p>Informatica Enterprise Data Catalog (EDC) is a powerful tool that enhances
-the management and utilization of data pipelines within an organization.</p>
+the management and utilization of data pipelines within an organization.
+It plays a crucial role in optimizing data pipelines by providing comprehensive
+metadata management and data lineage capabilities and enables data processing
+such as ingesting data into a lakehouse. This visibility of data flow allows</p>
