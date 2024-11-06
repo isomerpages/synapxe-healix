@@ -31,19 +31,19 @@ monitoring.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Comprehensive GIS Platform</strong> - Offers tools for mapping,
-spatial analysis, and advanced geospatial modeling</p>
+spatial analysis, and advanced geospatial modeling.</p>
 </li>
 <li>
 <p><strong>Wide Data Integration</strong> - Provides dynamic dashboards and
-maps with spatial filters and drill-down capabilities</p>
+maps with spatial filters and drill-down capabilities.</p>
 </li>
 <li>
 <p><strong>Scalable &amp; Collaborative</strong> - Works seamlessly across
-web and mobile, with collaboration tools for organisations of all sizes</p>
+web and mobile, with collaboration tools for organisations of all sizes.</p>
 </li>
 <li>
 <p><strong>Real-Time Spatial Insights</strong> - Monitors events live, offering
-proactive geospatial solutions for decision-making</p>
+proactive geospatial solutions for decision-making.</p>
 </li>
 </ul>
 <p><a href="https://www.arcgis.com/index.html" rel="noopener nofollow" target="_blank">Click here to learn more!</a>
