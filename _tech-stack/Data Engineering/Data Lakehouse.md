@@ -5,6 +5,9 @@ third_nav_title: Data Engineering
 variant: tiptap
 description: ""
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Entities Logo/all_entities_logo.png">
+</div>
 <h1>Data Lakehouse Architecture</h1>
 <p>A data lakehouse is a new, open data management architecture that combines
 the flexibility, cost-efficiency, and scale of data lakes with the data
