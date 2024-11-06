@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - Overview.md
-      - Data Engineering/Data Quality.md
-      - Data Engineering/Data Pipeline.md
       - Data Engineering/.keep
       - Data Engineering/Data Lakehouse.md
       - Data Engineering/Data Catalogue.md
+      - Data Engineering/Data Pipeline.md
+      - Data Engineering/Data Quality.md
       - Data Science/.keep
       - Data Science/Data Science Workbench.md
       - Data Science/Machine Learning Ops.md
