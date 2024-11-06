@@ -43,7 +43,7 @@ predict future trends and make smarter decisions</p>
 providing the infrastructure and flexibility to meet your growing demands</p>
 </li>
 <li>
-<p><strong>Deep Ecosystem Integration</strong> - Integrate with a wide range
+<p><strong>Deep Ecosystem Integration</strong> - Integrated with a wide range
 of industry-leading tools and platforms, enabling smooth workflows across
 your tech ecosystem</p>
 </li>
