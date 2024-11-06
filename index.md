@@ -25,6 +25,8 @@ sections:
       size: sm
       alignment: left
       backgroundColor: gray
+      button: join healix
+      url: /onboarding/
   - infopic:
       title: Welcome to HEALIX!
       id: infopic
@@ -35,14 +37,6 @@ sections:
       alt: HEALIX
       subtitle: one common platform
       image: /images/healix_logo.jpg
-  - infopic:
-      title: Onboarding
-      subtitle: Be part of our journey
-      id: infopic
-      description: A quick 2-step approach for you to join HEALIX soon!
-      button: Get Started Here
-      url: /onboarding/
-      alt: Image alt text
   - announcements:
       title: Latest HEALIX News
       id: announcements
