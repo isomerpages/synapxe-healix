@@ -20,7 +20,7 @@ designed to streamline complex data workflows for businesses. It provides
 a centralised, scalable interface where users can connect, transform, and
 manage data from multiple sources in a seamless, no-code or low-code environment.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="DataPipes" src="/images/Product Logos/datapipes_logo.png">
+<img style="width: 50%;" height="auto" width="100%" alt="DataPipes" src="/images/Product Logos/datapipes_logo.png">
 </div>
 <h3>Why Data Pipes?</h3>
 <ul data-tight="true" class="tight">
