@@ -59,7 +59,7 @@ sections:
           date: 05 November 2024
           announcement: Release 2 is almost here! This release will introduce new tools
             and improvements to elevate your HEALIX experience. Stay tuned for
-            more details!
+            more details.
           link_text: ""
           link_url: ""
 ---
