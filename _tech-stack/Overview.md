@@ -33,11 +33,14 @@ and introduce a <strong>Use Case Layer</strong> to track ongoing usage.</p>
 <td rowspan="1" colspan="1">
 <p><a href="/tech-stack/data-engineering/data-lakehouse/" rel="noopener nofollow" target="_blank">Data Lakehouse</a>
 </p>
-<p>Data Catalogue</p>
-<p>Data Pipeline</p>
+<p><a href="/tech-stack/data-engineering/data-catalogue/" rel="noopener nofollow" target="_blank">Data Catalogue</a>
+</p>
+<p><a href="/tech-stack/data-engineering/data-pipeline/" rel="noopener nofollow" target="_blank">Data Pipeline</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Data Quality</p>
+<p><a href="/tech-stack/data-engineering/data-quality/" rel="noopener nofollow" target="_blank">Data Quality</a>
+</p>
 <p>Data Anonymisation</p>
 <p>EAI-H</p>
 </td>
