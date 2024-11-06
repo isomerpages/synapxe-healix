@@ -28,20 +28,20 @@ data scientists and developers to scale their machine learning workflows.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Choice of ML tools</strong> - Offers a variety of tools: IDEs for
-data scientists and a no-code interface for business analysts</p>
+data scientists and a no-code interface for business analysts.</p>
 </li>
 <li>
 <p><strong>Fully Managed &amp; Scalable Infrastructure</strong> - Develop
 custom ML models, including Foundation Models for generative AI applications,
-using specialised tools on a high-performance, cost-effective infrastructure</p>
+using specialised tools on a high-performance, cost-effective infrastructure.</p>
 </li>
 <li>
 <p><strong>Repeatable &amp; Responsible ML Workflows</strong> - Automate and
-standardise MLOps practices and governance to ensure transparency and auditability</p>
+standardise MLOps practices and governance to ensure transparency and auditability.</p>
 </li>
 <li>
 <p><strong>Human-in-the-loop</strong> - Incorporates human-in-the-loop capabilities
-to improve accuracy and relevancy of Foundation Models</p>
+to improve accuracy and relevancy of Foundation Models.</p>
 </li>
 </ul>
 <p><a href="https://aws.amazon.com/sagemaker/" rel="noopener nofollow" target="_blank">Click here to learn more!</a>
