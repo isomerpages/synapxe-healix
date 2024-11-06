@@ -6,11 +6,11 @@ description: ""
 third_nav_title: Data Science
 ---
 <h1>Machine Learning Ops (MLOps)</h1>
-<p>Machine Learning Operations (MLOps) is all about bridging the gap between
-data science and production. It brings together the agility of DevOps with
-the complexity of machine learning to ensure models are not only built
-but continuously deployed, monitored, and optimized at scale. With MLOps,
-data scientists and operations teams can collaborate more effectively,
+<p><strong>Machine Learning Operations (MLOps)</strong> is all about bridging
+the gap between data science and production. It brings together the agility
+of DevOps with the complexity of machine learning to ensure models are
+not only built but continuously deployed, monitored, and optimised at scale.
+With MLOps, data scientists and operations teams can collaborate more effectively,
 automating workflows, tracking model performance, and tackling issues like
 model drift.</p>
 <h2>Tool: DataRobot</h2>
