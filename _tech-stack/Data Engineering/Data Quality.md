@@ -45,5 +45,6 @@ volumes of data without compromising performance, ensuring that high data
 quality standards are maintained even as your data landscape evolves.</p>
 </li>
 </ul>
-<p></p>
+<p><a href="https://www.informatica.com/sg/products/data-quality.html" rel="noopener nofollow" target="_blank">Click here to learn more!</a>
+</p>
 <p></p>
