@@ -26,7 +26,7 @@ data is accurate, complete, and consistent.The platform also fofers advanced
 analytics and reporting capabitilies, allowing organizations to monitor
 data quality metrics and make informed decisions based on reliable data.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Informatica Logo" src="/images/Product Logos/informatica_logo.png">
+<img style="width: 50%;" height="auto" width="100%" alt="Informatica Logo" src="/images/Product Logos/informatica_logo.png">
 </div>
 <h3>Why Informatica IDMC (IDQ)?</h3>
 <ul data-tight="true" class="tight">
