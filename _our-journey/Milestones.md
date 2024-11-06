@@ -16,6 +16,6 @@ the healthcare ecosystem. As a result, HEALIX not only addresses the unique
 challenges faced by different stakeholders but also empowers them to deliver
 high-quality care in an increasingly complex healthcare landscape.</p>
 <p></p>
-<h2>Some Notable Cases</h2>
+<h2>Use Cases</h2>
 <p></p>
 <p></p>
