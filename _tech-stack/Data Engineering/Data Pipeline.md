@@ -28,4 +28,6 @@ and troubleshooting.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Informatica Logo" src="/images/Product Logos/informatica_logo.png">
 </div>
+<h3>Why Informatica IDMC (EDC)?</h3>
+<p></p>
 <p></p>
