@@ -49,7 +49,8 @@ and introduce a <strong>Use Case Layer</strong> to track ongoing usage.</p>
 <td rowspan="1" colspan="1">
 <p><a href="/tech-stack/data-science/data-science-workbench/" rel="noopener nofollow" target="_blank">Data Science (DS) Workbench</a>
 </p>
-<p>Machine Learning Ops</p>
+<p><a href="/tech-stack/data-science/machine-learning-ops/" rel="noopener nofollow" target="_blank">Machine Learning Ops</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Realtime Dashboarding</p>
