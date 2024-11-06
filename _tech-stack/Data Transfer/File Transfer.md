@@ -16,3 +16,5 @@ accessed, shared, and synchronised across platforms while maintaining stringent
 security standards. By supporting multiple transfer protocols, file transfer
 solutions allow organisations to work with varied data sources, simplify
 integration, and facilitate smooth data exchanges.</p>
+<h2>Tool: AWS Transfer Family</h2>
+<p></p>
