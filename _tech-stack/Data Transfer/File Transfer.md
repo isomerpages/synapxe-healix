@@ -53,4 +53,6 @@ monitoring via Amazon CloudWatch for tracking transfer metrics and ensuring
 reliable data flows.</p>
 </li>
 </ul>
+<p><a href="https://aws.amazon.com/aws-transfer-family/" rel="noopener nofollow" target="_blank">Click here to learn more!</a>
+</p>
 <p></p>
