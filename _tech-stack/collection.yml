@@ -5,9 +5,9 @@ collections:
       - Overview.md
       - Data Engineering/.keep
       - Data Engineering/Data Lakehouse.md
-      - Data Science/Machine Learning Ops.md
-      - Data Science/Data Science Workbench.md
       - Data Science/.keep
+      - Data Science/Data Science Workbench.md
+      - Data Science/Machine Learning Ops.md
       - Analytics/.keep
       - Analytics/Data Visualisation.md
       - Analytics/Geospatial Analytics.md
