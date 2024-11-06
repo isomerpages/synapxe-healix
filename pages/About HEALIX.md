@@ -44,10 +44,3 @@ sector</div>
 of capabilities that are powered by various cutting-edge tools. Discover
 more about these capabilities on our <a href="/tech-stack/overview/" rel="noopener nofollow" target="_blank">tech stack.</a>
 </p>
-<hr>
-<h2>Get Started</h2>
-<p>We are excited to welcome you to our platform, where innovation meets
-collaboration in the realm of public healthcare. Embark on your journey
-with HEALIX <a href="/onboarding/" rel="noopener nofollow" target="_blank">here!</a>
-</p>
-<p></p>
