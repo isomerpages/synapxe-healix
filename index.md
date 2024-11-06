@@ -61,7 +61,7 @@ sections:
       subtitle: who we work with
       id: infopic
       image: /images/infopic_entities.png
-      alt: Image alt text
+      alt: Our Partner's Logo
       description: Explore how we work together with our partners to drive innovation
         within Singapore's public healthcare sector.
       button: Discover our collaborative efforts
