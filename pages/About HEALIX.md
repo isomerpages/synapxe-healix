@@ -4,7 +4,9 @@ permalink: /about-healix/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Entities Logo/all_entities_logo.png">
+</div>
 <h1>Welcome to HEALIX!</h1>
 <p>HEALIX is dedicated to establishing a unified <strong>cloud-based data infrastructure</strong> that
 fosters collaboration among public healthcare stakeholders. By utilizing&nbsp;<strong>common&nbsp;</strong>tools
@@ -48,7 +50,4 @@ more about these capabilities on our <a href="/tech-stack/overview/" rel="noopen
 collaboration in the realm of public healthcare. Embark on your journey
 with HEALIX <a href="/onboarding/" rel="noopener nofollow" target="_blank">here!</a>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Entities Logo/all_entities_logo.png">
-</div>
 <p></p>
