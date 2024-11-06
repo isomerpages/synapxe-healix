@@ -32,13 +32,4 @@ Model</p>
 </div>
 </details>
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Synapxe</div><div class="isomer-card-description">Synthetic Data Generation Model | Sleep Disorder Classification Model</div><div class="isomer-card-link">Find out more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">SingHealth</div>
-<div class="isomer-card-description">Warfarin Dosage Model</div>
-<div class="isomer-card-link">Find out more</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Use Case 3</div><div class="isomer-card-description">&lt;description&gt;</div><div class="isomer-card-link">Find out more</div></div></a>
-</div>
 <p></p>
