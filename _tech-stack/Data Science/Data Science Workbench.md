@@ -9,17 +9,18 @@ third_nav_title: Data Science
 <img style="width: 100%" height="auto" width="100%" alt="Our Partners' Logo" src="/images/Entities Logo/all_entities_logo.png">
 </div>
 <h1>Data Science Workbench</h1>
-<p>The Data Science Workbench is a comprehensive platform designed to support
-data scientists and analysts throughout the entire data science lifecycle.
-It integrates various tools and frameworks for tasks like data exploration,
-model development, and deployment. It enables users to automate workflows,
-enhance productivity, and integrate with cloud environments, making it
-ideal for projects ranging from predictive analytics to deep learning applications.</p>
+<p>The <strong>Data Science Workbench</strong> is a comprehensive platform
+designed to support data scientists and analysts throughout the entire
+data science lifecycle. It integrates various tools and frameworks for
+tasks like data exploration, model development, and deployment. It enables
+users to automate workflows, enhance productivity, and integrate with cloud
+environments, making it ideal for projects ranging from predictive analytics
+to deep learning applications.</p>
 <h2>Tool: Amazon SageMaker</h2>
-<p>Amazon SageMaker is a fully managed service by AWS that simplifies the
-process of building, training, and deploying machine learning (ML) models.
-It supports the entire ML lifecycle, making it easier for data scientists
-and developers to scale their machine learning workflows.</p>
+<p><strong>Amazon SageMaker</strong> is a fully managed service by AWS that
+simplifies the process of building, training, and deploying machine learning
+(ML) models. It supports the entire ML lifecycle, making it easier for
+data scientists and developers to scale their machine learning workflows.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="AWS SageMaker Logo" src="/images/Product Logos/sagemaker_logo.png">
 </div>
@@ -32,7 +33,7 @@ data scientists and a no-code interface for business analysts</p>
 <li>
 <p><strong>Fully Managed &amp; Scalable Infrastructure</strong> - Develop
 custom ML models, including Foundation Models for generative AI applications,
-using specialized tools on a high-performance, cost-effective infrastructure</p>
+using specialised tools on a high-performance, cost-effective infrastructure</p>
 </li>
 <li>
 <p><strong>Repeatable &amp; Responsible ML Workflows</strong> - Automate and
