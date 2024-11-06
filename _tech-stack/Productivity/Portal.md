@@ -47,6 +47,8 @@ and supports both technical and non-technical users.</p>
 <li>
 <p><strong>Real-time Monitoring</strong>: Offers visibility and alerts on
 data flows to maintain operational efficiency.</p>
+<p><a href="https://www.home.datapipes.io/" rel="noopener nofollow" target="_blank">Click here to learn more!</a>
+</p>
 </li>
 </ul>
 <p></p>
