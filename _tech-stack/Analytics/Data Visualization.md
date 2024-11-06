@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Analytics
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Entities Logo/all_entities_logo.png">
+<img style="width: 100%" height="auto" width="100%" alt="Our Partners' Logo" src="/images/Entities Logo/all_entities_logo.png">
 </div>
 <h1>Data Visualization</h1>
 <p>Visualization transforms raw data into interactive charts, graphs and
@@ -22,7 +22,7 @@ visualize, and share data intuitively and interactively. It allows users
 to create a wide variety of visualizations - from simple charts and graphs
 to complex dashboards - without requiring advanced technical skills.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Product Logos/tableau-logo.png">
+<img style="width: 50%;" height="auto" width="100%" alt="Tableau Logo" src="/images/Product Logos/tableau-logo.png">
 </div>
 <h3>Why Tableau?</h3>
 <ul data-tight="true" class="tight">
