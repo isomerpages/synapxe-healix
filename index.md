@@ -44,9 +44,9 @@ sections:
       url: /onboarding/
       alt: Image alt text
   - announcements:
-      title: Latest News and Events
+      title: Latest HEALIX News
       id: announcements
-      subtitle: What's next
+      subtitle: what's next
       announcement_items:
         - title: Release 1
           date: 04 November 2024
