@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Entities Logo/all_entities_logo.png">
+<img style="width: 100%;" height="auto" width="100%" alt="Our Partner's Logo" src="/images/Entities Logo/all_entities_logo.png">
 </div>
 <h1>Welcome to HEALIX!</h1>
 <p>HEALIX is dedicated to establishing a unified <strong>cloud-based data infrastructure</strong> that
@@ -38,13 +38,13 @@ sector</div>
 </div>
 </div>
 </div>
-<p></p>
+<hr>
 <h2>HEALIX Capabilities</h2>
 <p>From Data Engineering to advanced Analytics, HEALIX offers a wide range
 of capabilities that are powered by various cutting-edge tools. Discover
 more about these capabilities on our <a href="/tech-stack/overview/" rel="noopener nofollow" target="_blank">tech stack.</a>
 </p>
-<p></p>
+<hr>
 <h2>Get Started</h2>
 <p>We are excited to welcome you to our platform, where innovation meets
 collaboration in the realm of public healthcare. Embark on your journey
