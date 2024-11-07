@@ -42,7 +42,8 @@ Desk.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
+<p><strong>3</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Almost There!</strong>
@@ -63,7 +64,8 @@ for the first login.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1</p>
+<p><strong>1</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Download and fill up the Access Request Form</strong>
