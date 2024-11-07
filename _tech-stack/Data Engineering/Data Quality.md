@@ -21,12 +21,11 @@ of healthcare organizations.</p>
 <h2>Tool: Informatica IDMC (IDQ)</h2>
 <p><strong>Informatica Data Quality (IDQ) </strong>is a powerful data management
 tool that plays a vital role in ensuring high data quality across organizations.
-With Informatica, users can automate data quality processes, ensuring that
-data is accurate, complete, and consistent. It leverages advanced algorithms
-and AI to detect anomalies, validate data, and automate data correction.
-With its user-friendly interface and robust rule-building capabilities,
-IDQ empowers users to implement data quality seamlessly, supporting better
-decision-making, compliance, and overall trust in data assets.</p>
+It leverages advanced algorithms and AI to detect anomalies, validate data,
+and automate data correction. With its user-friendly interface and robust
+rule-building capabilities, IDQ empowers users to implement data quality
+seamlessly, supporting better decision-making, compliance, and overall
+trust in data assets.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Informatica Logo" src="/images/Product Logos/informatica_logo.png">
 </div>
