@@ -30,20 +30,22 @@ and dependencies.</p>
 <h3>Why Informatica IDMC?</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Extensive Connectivity </strong>- Connect and integrate data from
-various sources, including cloud and on-premises systems.</p>
+<p><strong>Seamless Data Integration </strong>- Connect and integrate data
+from various sources, including cloud and on-premises systems.</p>
 </li>
 <li>
-<p><strong>High Data Quality</strong> - Ensure high data quality through profiling,
-cleansing, and monitoring capabilities.</p>
+<p><strong>AI-powered Data Catalogue </strong>- Automates data discovery,
+classification, and organization, making it easier to find and manage data
+assets.</p>
 </li>
 <li>
-<p><strong>Data Governance</strong> - Implement robust data governance practices
-to manage data aces, compliance, and security.</p>
+<p><strong>Data Quality Management </strong>- Advanced tools for profiling,
+cleansing, and enriching data to ensure high data quality for accurate
+analysis and reporting.</p>
 </li>
 <li>
-<p><strong>Cloud Services</strong> - Leverage cloud-based solutions for scalability
-and flexibility in data management.</p>
+<p><strong>Scalability &amp; Flexibility </strong>- Handle massive volume
+of data and adapts to the needs of growing organizations.</p>
 </li>
 </ul>
 <p><a href="https://www.informatica.com/sg/" rel="noopener nofollow" target="_blank">Click here to learn more!</a>
