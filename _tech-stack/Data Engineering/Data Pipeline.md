@@ -19,12 +19,11 @@ decisions quickly.</p>
 <h2>Tool: Informatica IDMC (EDC)</h2>
 <p><strong>Informatica Enterprise Data Catalog (EDC)</strong> is a powerful
 tool that enhances the management and utilization of data pipelines within
-an organization. It plays a crucial role in optimizing data pipelines by
-providing comprehensive metadata management and data lineage capabilities
-and enables data processing such as ingesting data into a lakehouse. This
-visibility of data flow allows data engineers and analysts to understand
-how data is transformed and utilized, facilitating better decision-making
-and troubleshooting.</p>
+an organization. With its cloud-native architecture, Informatica EDC provides
+scalability and flexibility, enabling users to design and automate complex
+data workflows with minimal coding. Its user-friendly interface and AI-driven
+features streamline the development of data pipelines, improving efficiency
+and productivity.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Informatica Logo" src="/images/Product Logos/informatica_logo.png">
 </div>
@@ -41,9 +40,12 @@ large volumes of data and complex transformations, accommodating growing
 data needs.</p>
 </li>
 <li>
-<p><strong>Data Lineage Tracking</strong> - Provides visibility into the flow
-of data through the pipeline, allowing users to trace data transformations
-and understand data origins.</p>
+<p><strong>Built-in Data Quality</strong> - Ensures data accuracy and consistency
+throughout the pipeline.</p>
+</li>
+<li>
+<p><strong>Robust Security and Governance</strong> - Provides end-to-end data
+lineage compliance support and data protection.</p>
 </li>
 </ul>
 <p><a href="https://www.informatica.com/sg/products/data-catalog/enterprise-data-catalog.html" rel="noopener nofollow" target="_blank">Click here to learn more!</a>
