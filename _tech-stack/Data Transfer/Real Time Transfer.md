@@ -8,7 +8,6 @@ third_nav_title: Data Transfer
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Entities Logo/all_entities_logo.png">
 </div>
-<h1></h1>
 <h1>Real Time Transfer</h1>
 <p><strong>Real Time Transfer</strong> technology facilitates the immediate
 and continuous movement of data between systems or entities as events occur.
