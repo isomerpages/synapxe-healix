@@ -16,5 +16,5 @@ users to access and utilize data without delays. Real time transfer is
 essential for ensuring that all parties involved have the most current
 and accurate data, which can significantly enhance decision-making and
 operational efficiency.</p>
-<h2>Tool: Amazon API Gateway</h2>
+<h2>Tool: AWS API Gateway</h2>
 <p></p>
