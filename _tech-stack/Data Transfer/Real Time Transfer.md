@@ -17,4 +17,13 @@ essential for ensuring that all parties involved have the most current
 and accurate data, which can significantly enhance decision-making and
 operational efficiency.</p>
 <h2>Tool: AWS API Gateway</h2>
+<p><strong>Amazon API Gateway</strong> is a fully managed service that enables
+developers to create, publish, maintain, monitor and secure APIs at any
+scale. It acts as a gateway for applications to access backend services,
+allowing for the integration of various data sources and microservices.
+With features such as traffic management, authorization and access control,
+Amazon API Gateway simplifies the process of building and managing APIs,
+making it easier for developers to deliver robust applications quickly
+and efficiently.</p>
+<p></p>
 <p></p>
