@@ -31,16 +31,18 @@ and efficiently.</p>
 <h3>Why Amazon API Gateway?</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Scalability - Automatically scales to accommodate any level of incoming
-API traffic, without requiring manual intervention or infrastructure management</p>
+<p><strong>Scalability </strong>- Automatically scales to accommodate any
+level of incoming API traffic, without requiring manual intervention or
+infrastructure management</p>
 </li>
 <li>
-<p>Robust Security Features - Safeguard your APIs with top-notch authentication
-and authorization options</p>
+<p><strong>Robust Security Features</strong> - Safeguard your APIs with top-notch
+authentication and authorization options</p>
 </li>
 <li>
-<p>Versatile API Support - Build both RESTful APIs and real-time communication
-applications using WebSocket APIs, catering to diverse application needs</p>
+<p><strong>Versatile API Support</strong> - Build both RESTful APIs and real-time
+communication applications using WebSocket APIs, catering to diverse application
+needs</p>
 </li>
 </ul>
 <p><a href="https://aws.amazon.com/api-gateway/" rel="noopener nofollow" target="_blank">Click here to learn more!</a>
