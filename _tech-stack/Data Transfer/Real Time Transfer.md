@@ -33,16 +33,16 @@ and efficiently.</p>
 <li>
 <p><strong>Scalability </strong>- Automatically scales to accommodate any
 level of incoming API traffic, without requiring manual intervention or
-infrastructure management</p>
+infrastructure management.</p>
 </li>
 <li>
 <p><strong>Robust Security Features</strong> - Safeguard your APIs with top-notch
-authentication and authorization options</p>
+authentication and authorization options.</p>
 </li>
 <li>
 <p><strong>Versatile API Support</strong> - Build both RESTful APIs and real-time
 communication applications using WebSocket APIs, catering to diverse application
-needs</p>
+needs.</p>
 </li>
 </ul>
 <p><a href="https://aws.amazon.com/api-gateway/" rel="noopener nofollow" target="_blank">Click here to learn more!</a>
