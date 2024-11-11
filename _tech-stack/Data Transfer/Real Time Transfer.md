@@ -16,7 +16,7 @@ users to access and utilize data without delays. Real time transfer is
 essential for ensuring that all parties involved have the most current
 and accurate data, which can significantly enhance decision-making and
 operational efficiency.</p>
-<h2>Tool: AWS API Gateway</h2>
+<h2>Tool: Amazon API Gateway</h2>
 <p><strong>Amazon API Gateway</strong> is a fully managed service that enables
 developers to create, publish, maintain, monitor and secure APIs at any
 scale. It acts as a gateway for applications to access backend services,
@@ -28,5 +28,21 @@ and efficiently.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Amazon API Gateway Logo" src="/images/Product Logos/api_gateway_logo.png">
 </div>
-<p></p>
+<h3>Why Amazon API Gateway?</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Scalability - Automatically scales to accommodate any level of incoming
+API traffic, without requiring manual intervention or infrastructure management</p>
+</li>
+<li>
+<p>Robust Security Features - Safeguard your APIs with top-notch authentication
+and authorization options</p>
+</li>
+<li>
+<p>Versatile API Support - Build both RESTful APIs and real-time communication
+applications using WebSocket APIs, catering to diverse application needs</p>
+</li>
+</ul>
+<p><a href="https://aws.amazon.com/api-gateway/" rel="noopener nofollow" target="_blank">Click here to learn more!</a>
+</p>
 <p></p>
