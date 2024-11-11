@@ -9,13 +9,11 @@ description: ""
 </div>
 <h1>Welcome to HEALIX!</h1>
 <p>HEALIX is dedicated to establishing a unified <strong>cloud-based data infrastructure</strong> that
-fosters collaboration among public healthcare stakeholders. By utilising&nbsp;<strong>common&nbsp;</strong>tools
+fosters collaboration among public healthcare stakeholders. By utilizing&nbsp;<strong>common&nbsp;</strong>tools
 and<strong> common </strong>datasets, HEALIX promotes a balanced approach
 that enhances autonomy while leveraging common horizontal capabilities.
 This platform not only accelerates processes but also leads to significant
 savings in both costs and manpower.</p>
-<p>&lt;insert-video-here&gt;</p>
-<p></p>
 <h2>Key Features</h2>
 <div class="isomer-card-grid">
 <div class="isomer-card">
