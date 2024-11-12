@@ -26,7 +26,7 @@ the necessary action.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Download and fill up the Service Request Form</strong>
-<br>Start filling your information and requirement into the form.</p>
+<br>Start filling your information and requirements into the form.</p>
 </td>
 </tr>
 <tr>
@@ -47,9 +47,9 @@ Desk.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Almost There!</strong>
-<br>HEALIX Account will be provision upon approval in 8-12 working days. You
-will be contacted when your HEALIX Account is ready within the next steps
-for the first login.</p>
+<br>HEALIX Account will be provisioned upon approval in 8-12 working days.
+You will be contacted when your HEALIX Account is ready within the next
+steps for the first login.</p>
 </td>
 </tr>
 </tbody>
@@ -90,8 +90,8 @@ HEALIX with complete declaration.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Almost There!</strong>
-<br>HEALIX Account will be provision upon approval in 8-12 working days. You
-will be contacted when your HEALIX Account is ready with the next steps
+<br>HEALIX Account will be provisioned upon approval in 8-12 working days.
+You will be contacted when your HEALIX Account is ready with the next steps
 for first login.</p>
 </td>
 </tr>
