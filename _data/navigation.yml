@@ -8,7 +8,5 @@ links:
     collection: tech-stack
   - title: Our Journey
     collection: our-journey
-  - title: Releases
-    collection: releases
   - title: Media
     resource_room: true
