@@ -47,8 +47,8 @@ sections:
           announcement: Release 1 is now live! Key highlights of this release include
             seamless integration with Databricks for robust data engineering
             capabilities and Tableau for intuitive data visualisation.
-          link_text: See full details here
-          link_url: /release-1/
+          link_text: ""
+          link_url: ""
         - title: Release 2
           date: 05 November 2024
           announcement: Release 2 is almost here! This release will introduce new tools
