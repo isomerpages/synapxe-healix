@@ -69,7 +69,8 @@ and introduce a <strong>Use Case Layer</strong> to track ongoing usage.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Real Time Transfer</p>
+<p><a href="/tech-stack/data-transfer/real-time-transfer/" rel="noopener nofollow" target="_blank">Real Time Transfer</a>
+</p>
 </td>
 </tr>
 <tr>
