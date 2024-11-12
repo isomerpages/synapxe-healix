@@ -10,3 +10,5 @@ links:
     collection: our-journey
   - title: Releases
     collection: releases
+  - title: Media
+    resource_room: true
