@@ -1,5 +1,0 @@
-collections:
-  releases:
-    output: true
-    order:
-      - Release 1.md
