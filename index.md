@@ -12,9 +12,6 @@ sections:
       subtitle: Health Empowerment thru Advanced Leaning and Intelligent eXchange
       background: /images/hero_banner.png
       key_highlights:
-        - title: Release Stages
-          description: See What's New
-          url: /release-1/
         - title: Tech stack
           description: HEALIX Capabilities and Tools
           url: /tech-stack/overview/
